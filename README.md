@@ -1,3 +1,3 @@
 👋 Hey friends!
 
-This is Bennett Yuan, a iOS developer 👨‍💻.
+This is Bennett Yuan, an iOS developer 👨‍💻.
